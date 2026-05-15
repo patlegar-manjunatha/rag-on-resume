@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+requests
+httpx
+faiss-cpu
+numpy
+pypdf
+openai
+langchain
